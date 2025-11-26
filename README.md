@@ -2,7 +2,7 @@
 ---
 Python Source Code for the Extraction method for response functions from X-ray light curves of AGN by optimization algorithm
 
-*Prerequisits
+**Prerequisits**
 - PyTorch
 - Scikit-learn
 - Numpy

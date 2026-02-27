@@ -1,6 +1,6 @@
 # Response_Solver
 ---
-Python Source Code for the Extraction method for response functions from X-ray light curves of AGN by optimization algorithm
+Python Source Code for the article ``Extraction method for response functions from X-ray light curves of AGN by optimization algorithm`` (submitted to ApJ)
 
 **Prerequisits**
 - Matplotlib
@@ -9,7 +9,7 @@ Python Source Code for the Extraction method for response functions from X-ray l
 - PyTorch
 - Scipy
 - Scikit-Learn
-  
+- Time Series filter code (https://github.com/statefb/ts-spatial-filter)  
 ---
 Users may change these following variables to make it suits your projects
 - Initial Guess

@@ -1,9 +1,7 @@
 # Response_Solver
 ---
-Python Source Code for the article ***Extraction method for response functions from X-ray light curves of AGN by optimization algorithm*** (Deesamutara et al. 2026)
-
-Article: [DOI 10.3847/1538-4357/ae5b9d](https://iopscience.iop.org/article/10.3847/1538-4357/ae5b9d)
-
+Python Source Code for the article ***Extraction method for response functions from X-ray light curves of AGN by optimization algorithm*** (Deesamutara et al. 2026)\
+Article: [DOI 10.3847/1538-4357/ae5b9d](https://iopscience.iop.org/article/10.3847/1538-4357/ae5b9d) \
 Preprint : [arXiv:2604.04014](https://arxiv.org/abs/2604.04014)
 
 **Prerequisits**
@@ -39,5 +37,4 @@ BibTeX of Article :
       title = {Extraction Method for Response Functions from X-Ray Light Curves of Active Galactic Nuclei by an Optimization Algorithm},
       journal = {The Astrophysical Journal},
 }
-
 ```
